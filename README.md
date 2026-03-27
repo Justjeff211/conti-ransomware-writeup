@@ -14,8 +14,8 @@ The analysis was conducted using **Splunk 8.2.2**, reviewing **28,145 events** a
 - Provided **24 annotated screenshots** supporting the investigation.
 
 ##  Repository Contents
-- `Conti Ransomware Write Up.pdf` → Full 24‑page technical report
-- `/screenshots` → Individual images referenced in the report
+- `Conti Ransomware Write Up.pdf` >>> Full 24‑page technical report
+
 
 ##  Skills Demonstrated
 - SOC investigation methodology
@@ -29,5 +29,5 @@ This project showcases my ability to:
 - Identify exploited vulnerabilities and persistence mechanisms
 - Communicate findings in a structured, professional format
 
-## 📫 Contact
+##  Contact
 For collaboration or discussion, connect with me on [LinkedIn](https://www.linkedin.com/in/mojalefa-l-letsoara283b5a211).
